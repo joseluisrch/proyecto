@@ -1,5 +1,5 @@
 <?php 
-	
+// Probando cambios en la rama gduran	
 $alert = '';
 session_start();
 if(!empty($_SESSION['active']))
