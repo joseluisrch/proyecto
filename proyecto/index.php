@@ -1,5 +1,5 @@
 <?php 
-	
+// modificacion rama jose
 $alert = '';
 session_start();
 if(!empty($_SESSION['active']))
