@@ -6,7 +6,7 @@ if(!empty($_SESSION['active']))
 {
 	header('location: sistema/');
 }else{
-
+//modificacion
 	if(!empty($_POST))
 	{
 		if(empty($_POST['usuario']) || empty($_POST['clave']))
