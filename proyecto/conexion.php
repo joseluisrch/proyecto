@@ -1,5 +1,5 @@
 <?php 
-	
+	// correccion de seguridad
 	$host = 'localhost';
 	$user = 'root';
 	$password = '';
